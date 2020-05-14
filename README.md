@@ -1,6 +1,6 @@
 # DataVisualizationPlotter
 This is a unity Package that adds data Visualizing capabilities for Hololens 
-
+(Note functionality was merged into the DVT project this project is no longer supported)
 ## Dependencies
 Microsoft Mixed Reality Toolkit v2.1.0
 
